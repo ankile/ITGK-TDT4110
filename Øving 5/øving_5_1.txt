@@ -1,0 +1,30 @@
+a) Hvor mange forskjellige heltall kan representeres ved å bruke 4 bytes?
+4 bytes er 32 bits, som betyr at man kan representere 2^32, eller 4294967296 forskjellige heltall.
+
+
+b) Hva er en DAC? Nevn et bruksområde for for disse enhetene.
+DAC står for Digitial to Analog converter, og brukes for å gjøre den digitale representasjonen av lyd om til analoge
+lydsignaler som kan spilles av på en høyttaler.
+
+
+c) Hva er 18 i totallssystemet? Hva er 18 i 16 tallssystemet?
+(18)10 = (10010)2 = (12)16
+
+
+d) Skriv OLE ved hjelp av ASCII.
+0100 1111 0100 1100 0100 0101
+
+
+e) Hva er en piksel, og hva er dens funksjon i datamaskinens sammenheng?
+En pixel er en et lite punkt som sender ut farge som utgjør en bit av en helhet som utgjør et helhetlig bilde.
+Pixlene er hovedkomponenten i PC-skjermen, og er den måten man får informasjonen fra PCen.
+
+
+f) Hva er forskjellen på analog og digital lyd? Hvordan kan vi gå fra den ene til den andre?
+Analog lyd er flytende og har uendelig "oppløsning" fordi den er rett og slett bølger i luften. Om man skal lagre slike
+bølger digitalt blir resultatet simpelthen bare en tilnærming til den originale lydbølgen, fordi digital informasjon
+er diskret, altså den har enten én tilstand, eller så har den en annen, men aldri noe imellom.
+
+
+g) Hva er metadata?
+Metadata er data som omhandler annen data. Denne dataen sier noe om den dataen den ønsker å beskrive.

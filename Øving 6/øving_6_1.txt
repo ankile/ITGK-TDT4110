@@ -1,0 +1,21 @@
+a)
+ARPAnet regnes som internetts forgjenger. ARPA står for Advanced Research Projects Agency, og nettet ble utviklet
+i samarbeid mellom ARPA og MIT.
+
+b)
+Paritet som feildeteksjon fungerer ved at man har en paritetsbit som er enten 0 eller 1, avhengig av om antallet 1ere
+i de øvrige bitsene er et oddetall eller partall. Dermed, hvis noen av sifferne endrer seg kan man lett oppdage om det
+ikke er samsvar mellom paritetsbiten og antallet 1ere forøvrig.
+
+c)
+Med circuit switching må en linje reserveres mellom to noder før informasjon kan utveklses. I packet switchin sendes
+pakker med en adresse, så det er ikke nødvendig å ha en dedikert linje for at informasjonen skal komme til rett sted.
+Derfor kan flere bruke samme linje på en gang.
+
+d)
+Hardware, tilkobling, internett, transport, application.
+
+e)
+Rutere er spesialiserte datamaskiner som har som oppgave å sørge for at informasjonpakker ender opp der de er ment å
+ende opp. Dette innebærer også å sørge for at informasjon ikke sendes dit den ikke skal for å minimere unødig belastning
+på nettverket.

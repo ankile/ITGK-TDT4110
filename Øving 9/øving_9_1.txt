@@ -1,0 +1,17 @@
+1)
+NÅr en pakke sendes via TCP (transmission control protocol) så startes en timer på senders side. Mottakker sender en
+beskjed tilbake til sender når denne mottar en pakke. Hvis timeren renner ut før sender har fått beskjed om at mottaker
+motatt pakken sendes en ny.
+
+2)
+Latency, throughput and jitter, altså endringer i forsinkelsen og lengden på de, altså stabilitet.
+
+3)
+Hver part har hver sin offentlige og hemmelige nøkkel. Mottakker gir sin offentlige nøkkel til avsender, som så
+krypterer meldingen med denne. Så sendes den til mottaker. Den krypterte meldingen kan nå kun åpnes ved hjelp av
+mottakers private nøkkel.
+
+4)
+DDoS står for distributed denial of service, hvilket innebærer at mange datamaskiner jobber sammen om å denie noen
+service. Dette gjøres ved at det sendes veldig mange forespørsler/datapakker til samme server, slik at alle dens
+resursser brukes opp, slik at andre som vil kontakte serveren ikke får tilgang.

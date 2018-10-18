@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../2. Semester/TTM4100/.idea/TTM4100.iml" filepath="$PROJECT_DIR$/../../../2. Semester/TTM4100/.idea/TTM4100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../python/.idea/python.iml" filepath="$PROJECT_DIR$/../../../../python/.idea/python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/timeoppgaver.iml" filepath="$PROJECT_DIR$/.idea/timeoppgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Øving 5/.idea/Øving 5.iml" filepath="$PROJECT_DIR$/../Øving 5/.idea/Øving 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Øving 6/.idea/Øving 6.iml" filepath="$PROJECT_DIR$/../Øving 6/.idea/Øving 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Øving 7/.idea/Øving 7.iml" filepath="$PROJECT_DIR$/../Øving 7/.idea/Øving 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Øving 9/.idea/Øving 9.iml" filepath="$PROJECT_DIR$/../Øving 9/.idea/Øving 9.iml" />
+    </modules>
+  </component>
+</project>

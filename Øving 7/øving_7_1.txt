@@ -1,0 +1,28 @@
+a)
+Intranett er et privat nettverk, gjerne opprettet av en organisasjon for bruk til intern kommunikasjon.
+
+b)
+En vert er et endepunkt i et nettverk, for eksempel en pc eller en server. En ruter er en spesialisert datamaskin som
+kobler sammen og sørger for kommunikasjonen mellom deler av et nettverk.
+
+c)
+En protokoll er en avtale om hvordan kommunikasjonen skal foregå mellom deler av et nettverk. En protokoll definerer
+formatet og meningen av enhver melding en datamaskin i nettverket kan sende. Den sier også under hvilke omstendigheter
+en datamaskin kan sende en beskjed, og hvordan en datamaskin skal svare i tilfelle.
+
+d)
+IP-adresse står for internet protocol adress, og en adresse som brukes for å identifisere forskjellige noder i et
+nettverk. Ingen noder kan ha samme IP-adresse.
+
+e)
+IPv4 er internet protocol versjon 4, mens IPv6 er versjon 6. Dette er den underliggende teknologien for internett som
+vi kjenner det. En del av oppgavene er å tildele alle noder på nettet en unik adresse. IPv4 bruker 32-bits adresse
+og har derfor 4,9 milliarder forskjellige adresser, som er lite etter dagens standard. Derfor kommer IPv6 for å ta over
+med sine 128-bits adresse, som gjør at vi kommer til å ha unike adresser en god stund fremover.
+
+f)
+IP spesifiserer de grunnleggende reglene for hvordan kommunikasjon skal foregå på internett. IP definerer formatet som
+IP datagrammer, altså pakkene med informasjon, skal skrives på, og hvordan noder på nettverket skal tildeles adresser.
+IP gjør også at et intrikat nettverk av nettverk kan oppleves som ett enkelt nettverk, helt sømløst.
+Alle noder i nettverket må ha IP-software installert, og rutere har egen software som lar den lese adresser og
+videresende pakker dit de ska.

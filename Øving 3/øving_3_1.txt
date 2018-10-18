@@ -1,0 +1,42 @@
+a) Pseudokode er "kode" som er skrevet på en måte som er lett å forstå for mennesker, men som en datamaskin
+ikke kan forstå. Hensikten er at man skal kunne dele et problem opp i flere mindre, mer håndterlige deler
+før man gyver løs på å skrive faktisk kode.
+
+Pseudokode for oppgave "Andregradslikning":
+
+    Hent inn verdier for a, b, og c med input(), og konverter disse til int()
+
+    Regn ut d med formelen d = b**2 - 4*a*c
+
+    Sjekk med en if-setning om d er positiv, negativ eller lik 0
+
+    Om d er positiv, skriv til skjermen at vi har to løsninger
+
+    Om d er lik null, skriv til skjermen at vi har én løsning
+
+    Om d er negativ, skriv til skjermen at vi har to imaginære løsninger
+
+    Slutt
+
+b) Et flytdiagram viser grafisk hvordan et program oppfører seg.
+
+c) Å debugge er å prøve å finne ut av hva som er feil i en kode som ikke fungere slik den skal.
+
+d) Et høynivåprogrammeringspråk har gjerne flere lag med oversettelse mellom bruker og datamaskin som gjør
+at syntaksen ofte er mer lik menneskespråk.
+
+e) De fem stegene i hente/utføre-kretsen er:
+    Instruction Fetch
+        Dette er å innhente informasjon om hva det neste datamaskinen skal gjøre er
+    Instruction Decode
+        Så må den prøve å gjøre mening av instruksjonene
+    Data Fetch
+        Så må den hente inn dataen den trenger for å gjennomføre instruksjonene
+    Instruction Execute
+        Nå som den forstår instruksene og har dataen, gjennomfører den
+    Result Return
+        Så lagres resultatet
+    Dette gjentas gang på gang.
+
+f) Program counteren leverer minnelokasjonen til neste instruks, slik at prosessen beskrevet over kan start
+igjen.
